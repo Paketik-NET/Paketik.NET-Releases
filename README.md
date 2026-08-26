@@ -1,16 +1,10 @@
 # Paketik для Android
 
 
+**[Скачать последнюю версию](https://github.com/Paketik-NET/Paketik.NET-Releases/releases/latest/download/Paketik.apk)** · [все версии](https://github.com/Paketik-NET/Paketik.NET-Releases/releases)
 
-**[Страница скачивания →](https://paketik-net.github.io/Paketik.NET-Releases/)**
-
-Или сразу файлом: [последняя версия](https://github.com/Paketik-NET/Paketik.NET-Releases/releases/latest/download/Paketik.apk).
-
-## Это бета
-
-Приложение раздаётся узкому кругу и ещё меняется. Работать работает, но
-местами шероховато, и обновления приходят часто. Не работает или ведёт себя
-странно — [напишите в поддержку](https://t.me/Paketik_net_bot).
+Бета. Не работает или ведёт себя странно —
+[напишите в поддержку](https://t.me/Paketik_net_bot).
 
 ## Как поставить
 
